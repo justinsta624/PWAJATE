@@ -54,19 +54,20 @@ THEN I should have proper build scripts for a webpack application
 
 The following animation demonstrates the application functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+![00-demo](https://github.com/justinsta624/PWAJATE/assets/143357899/a48f1fe7-410e-4bf0-aae9-76aef02a0cb6)
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+![01-manifest](https://github.com/justinsta624/PWAJATE/assets/143357899/d1a8eed5-25bd-4782-bfca-23e3189fb92b)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
+![02-service-worker](https://github.com/justinsta624/PWAJATE/assets/143357899/7e8d0ff9-ded2-4ba4-b17e-999ef70aab12)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![03-idb-storage](https://github.com/justinsta624/PWAJATE/assets/143357899/402bc575-d2f8-4fa7-983d-1584ce759ac2)
+
 
 ## Grading Requirements
 
