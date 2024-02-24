@@ -30,19 +30,19 @@ Followings are the outcomes of the challenge 19:
 * Application functionality </br>
 ---
 ![00-demo](https://github.com/justinsta624/PWAJATE/assets/143357899/6324e36a-4436-476f-b6ec-3791bc560afd)
-
+---
 * Application's `manifest.json` file </br>
 ---
 ![01-manifest](https://github.com/justinsta624/PWAJATE/assets/143357899/0f15e056-f9d0-4dd5-aee5-06c15738fa88)
-
+---
 * Application's registered service worker </br>
 ---
 ![02-service-worker](https://github.com/justinsta624/PWAJATE/assets/143357899/d3e96756-2a49-4e6d-9fef-2fe1fc189b7c)
-
+---
 * Application's IndexedDB storage </br>
 ---
 ![03-idb-storage](https://github.com/justinsta624/PWAJATE/assets/143357899/c0e0d1a4-cc6f-4e67-8a24-2a7d3ea5384c)
-
+---
 <div align="center">
 
 </div>
