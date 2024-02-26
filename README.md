@@ -133,7 +133,7 @@ npm i
 ```
 npm run start
 ```
-4. Also, you can run start the server once packages have been installed and the database is created. Run the below in the CLI:
+4. Also, you can run start the server once packages have been installed and the database is created.
 ```
 node server.js
 ```
